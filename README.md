@@ -34,3 +34,15 @@ Determine the area of the largest square submatrix that contains all 1s from a g
 Convert a time string of the format hh:mm:ssAM or hh:mm:ssPM (07:02:57AM or 10:12:09PM)
 into military time (24h).
 
+#### Numeronyms
+Write a function n7m to create Numeronyms.
+
+#### Question marks
+Write the function that accepts a string parameter, which can contain single digit numbers, letters, and question marks, and check if there are exactly 3 question marks between every pair of two numbers that add up to 10. 
+
+#### Robot Attack
+You are being attacked by an army of robots!
+Write a function to find out if you can survive.
+
+#### Scale Balancing
+Write a function to determine if you can balance a scale by using the least amount of weights from a given list, but using at most only 2 weights per side. 
